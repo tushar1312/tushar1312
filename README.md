@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tushars61609185" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="Tushar Sharma" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tushar-sharma-3b98931b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Tushar Sharma" height="30" width="40" /></a>
+<a href="https://twitter.com/tushars61609185" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="Tushar's Twitter Profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tushar-sharma-3b98931b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Tushar's Linkedin Profile" height="30" width="40" /></a>
 </p>
 <br />
 
