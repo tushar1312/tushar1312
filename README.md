@@ -25,4 +25,4 @@
 - [ MyOnlineMeal ](https://my-online-meal-web.netlify.app/)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar1312&layout=compact)](https://github.com/tushar1312/github-readme-stats)
