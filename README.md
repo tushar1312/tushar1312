@@ -1,9 +1,9 @@
 ### Hi 👋, Welcome to my github Profile. My name is Tushar Sharma.
 ### About Me: 
-✨ Doing Master's of Computer Applications from AKTU, Lucknow. 
-✨ Graduate in Bachelor's of Computer Applications from dr. KN Modi Institue of Engineering and Technology, Modinagar, Ghaziabad.
-✨ Focusing on Full Stck Development.
-✨ Have knowledge about HTML, CSS and JS.
+✨ Doing Master's of Computer Applications from AKTU, Lucknow. <br />
+✨ Graduate in Bachelor's of Computer Applications from dr. KN Modi Institue of Engineering and Technology, Modinagar, Ghaziabad. <br />
+✨ Focusing on Full Stck Development. <br />
+✨ Have knowledge about HTML, CSS and JS. <br />
 <br />
 
 <!--
@@ -33,4 +33,4 @@
 <br />
 
 ### My Mini Project includes
-- MyOnlineMeal.com <a href="https://my-online-meal-web.netlify.app/">
+- <a MyOnlineMeal href="https://my-online-meal-web.netlify.app/">
