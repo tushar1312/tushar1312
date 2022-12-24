@@ -28,4 +28,4 @@
 <br />
 
 ### My Mini Project includes
-- [ Personal Portfolio ](https://my-online-meal-web.netlify.app/)
+- [ MyOnlineMeal ](https://my-online-meal-web.netlify.app/)
