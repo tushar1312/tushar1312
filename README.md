@@ -1,15 +1,9 @@
 ### Hi 👋, Welcome to my github Profile. My name is Tushar Sharma.
 ### About Me: 
-✨ Doing Master's of Computer Applications from AKTU, Lucknow. <br />
-✨ Graduate in Bachelor's of Computer Applications from dr. KN Modi Institue of Engineering and Technology, Modinagar, Ghaziabad. <br />
-✨ Focusing on Full Stck Development. <br />
-✨ Have knowledge about HTML, CSS and JS. <br />
-<br />
-
-<!--
-**tushar1312/tushar1312** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<br />
-
+- ✨ Doing Master's of Computer Applications from AKTU, Lucknow. <br />
+- ✨ Graduate in Bachelor's of Computer Applications from dr. KN Modi Institue of Engineering and Technology, Modinagar, Ghaziabad. <br />- 
+- ✨ Focusing on Full Stck Development. <br />
+- ✨ Have knowledge about HTML, CSS and JS. <br />
 - 🔭 I’m currently working on ... Full Stack Development.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ... Web Development Projects.
