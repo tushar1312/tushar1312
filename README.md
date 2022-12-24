@@ -6,8 +6,8 @@
 - ✨ Have knowledge about HTML, CSS and JS. <br />
 - 🔭 I’m currently working on ... Full Stack Development.
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ... Web Development Projects.
-- <div id="header" align="center">
+- 👯 I’m looking to collaborate on ... Web Development Projects. <br />
+ <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <!-- - 🤔 I’m looking for help with ... 
