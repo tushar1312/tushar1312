@@ -1,11 +1,11 @@
 <div align="center"> <h1> Hi 👋, Welcome to my Github Profile. </h1> <br/> <h2> I'm Tushar Sharma. </h2>  </div>
 ## About Me:
- ✨ Doing Master's of Computer Applications from AKTU, Lucknow. <br />
- ✨ Graduate in Bachelor's of Computer Applications from dr. KN Modi Institue of Engineering and Technology, Modinagar, Ghaziabad. <br /> 
- ✨ Focusing on Full Stck Development. <br />
- ✨ Have knowledge about HTML, CSS and JS. <br />
- 🔭 I’m currently working on ... Full Stack Development.
- 👯 I’m looking to collaborate on ... Web Development Projects. <br /> <br />
+- ✨ Doing Master's of Computer Applications from AKTU, Lucknow. <br />
+- ✨ Graduate in Bachelor's of Computer Applications from dr. KN Modi Institue of Engineering and Technology, Modinagar, Ghaziabad. <br /> 
+- ✨ Focusing on Full Stck Development. <br />
+- ✨ Have knowledge about HTML, CSS and JS. <br />
+- 🔭 I’m currently working on ... Full Stack Development.
+- 👯 I’m looking to collaborate on ... Web Development Projects. <br /> <br />
  
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
