@@ -18,6 +18,9 @@
   <a href="https://twitter.com/tushars61609185">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Tushar's Twitter"/>
   </a>
+  <a href="https://github.com/tushar1312">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Tushar's Github"/>
+  </a>
 </div>
 <br />
 
