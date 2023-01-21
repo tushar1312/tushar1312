@@ -1,5 +1,4 @@
-### Hi 👋, Welcome to my Github Profile.
-### I'm Tushar Sharma.
+<div align="center"> <h1> Hi 👋, Welcome to my Github Profile. </h1> <br/> <h2> I'm Tushar Sharma. </h2>  </div>
 ### About Me: 
 - ✨ Doing Master's of Computer Applications from AKTU, Lucknow. <br />
 - ✨ Graduate in Bachelor's of Computer Applications from dr. KN Modi Institue of Engineering and Technology, Modinagar, Ghaziabad. <br /> 
