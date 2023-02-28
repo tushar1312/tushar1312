@@ -1,4 +1,7 @@
-<div align="center"> <h1> Hi 👋, Welcome to my Github Profile. </h1> <br/> <h2> I'm Tushar Sharma. </h2>  </div>
+<div align="center"> <h1> Hi 👋, Welcome to my Github Profile. </h1> <br/> 
+ <h2> I'm Tushar Sharma. </h2>  
+ <h3> <a href="https://linktr.ee/tusharharitas"> Check all my links at one place </a> </h3> <br/>
+</div>
 
 ## About Me:
 ✨ Doing Master's of Computer Applications from AKTU, Lucknow. <br />
