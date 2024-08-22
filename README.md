@@ -4,7 +4,7 @@
 </div>
 
 ## 🤓 About Me:
-✨ Doing Master's of Computer Applications from AKTU, Lucknow. <br />
+✨ Recently Completed my Master's Degree from AKTU, Lucknow. <br />
 ✨ Graduate in Bachelor's of Computer Applications from dr. KN Modi Institue of Engineering and Technology, Modinagar, Ghaziabad. <br /> 
 ✨ Focusing on Full Stck Development. <br />
 ✨ Have knowledge about HTML, CSS and JS. <br />
